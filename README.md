@@ -1,19 +1,20 @@
-###Running Project
+### Running Project
 
-<ol>
-<li>
-initialize python3 env:
-<ul>
-<li>
+###### initialize python3 env:
+```
 source py3env/bin/activate
-</li>
-<li>
 source djangopy3env/bin/activate
-</li>
-<li>
 deactivate
-</li>
-</ul>
-</li>
+```
+###### to run: 
+`python simplewall.py`
 
-</ol>
+###### pip install required packages for environment
+
+`pip install flask, pip install bcrypt`
+
+###### MySQL
+<p>
+Install Mysql, create root user and db, then open model, simplewall.mwb file in MySQLWorkBench and run to create collections with necessary relationships between models.
+</p>
+
