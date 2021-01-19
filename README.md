@@ -22,3 +22,7 @@ deactivate
 <p>
 Install Mysql, create root user and db, then open model, simplewall.mwb file in MySQLWorkBench and run to create collections with necessary relationships between models.
 </p>
+
+currently not deployed
+
+[Reference](https://towardsdatascience.com/deploying-a-python-web-app-on-aws-57ed772b2319)
